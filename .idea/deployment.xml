@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hzhu@localhost:12345 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="hzhu@localhost:12345 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/export/data3/bachelor_theses/hzhu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="thesis">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

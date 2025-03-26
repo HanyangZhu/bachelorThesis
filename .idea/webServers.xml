@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b44a8236-648d-482b-9f40-6bf625a676cc" name="thesis">
+        <fileTransfer rootFolder="/export/data3/bachelor_theses/hzhu" accessType="SFTP" host="localhost" port="12345" sshConfigId="96152952-f9de-49d6-a41f-8cc0c442d04a" sshConfig="hzhu@localhost:12345 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
